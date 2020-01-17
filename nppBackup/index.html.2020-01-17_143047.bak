@@ -55,7 +55,7 @@
 				<p> Lien vers mes comptes </p>
 				<a href="https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=100" ><button> facebook</button></a><br/>
 				<br>
-				<img src="assets/img/facebook.jpg" alt="facebook.jpg" title="facebook" width="420" height="120"></img>
+				<img src=" assets/img/facebook.jpg" alt="facebook.jpg" title="facebook" width="420" height="120"></img>
 				<br>
 				<img src="assets/img/instagram.jpg" alt="instagram.jpg" title="instagram" width="420" height="120" ></img><br>
 				<br>
