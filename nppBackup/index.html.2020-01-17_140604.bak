@@ -78,19 +78,19 @@
 				<legend>Mes realisations</legend>
 					<ol>
 					<li>
-						<a href="https://nguele.github.io/lettre/" target="_blank"><button>Lettre</button></a>
+						<a href="/joyce/projets/lettre/lettre.html" target="_blank"><button>Lettre</button></a>
 					</li>
 					<br>
 					<li>
-						<a href="https://nguele.github.io/table/" target="_blank"><button>Table</button></a>
+						<a href="/joyce/projets/table/table.html" target="_blank"><button>Table</button></a>
 					</li>
 					<br>
 					<li>
-						<a href="https://nguele.github.io/formulaire/" target="_blank"><button>Formulaire</button></a>
+						<a href="/joyce/projets/formulaire/formulaire.html" target="_blank"><button>Formulaire</button></a>
 					</li>
 					<br>
 					<li>
-						<a href="https://nguele.github.io/media/" target="_blank"><button>Media</button></a>
+						<a href="/joyce/projets/media/media.html" target="_blank"><button>Media</button></a>
 					</li>
 				</ol>
 			</fieldset>
